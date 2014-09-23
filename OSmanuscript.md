@@ -437,7 +437,9 @@ communication between models and data. Plant, Cell & Environment
 36:1575–1585.
 
 Drummond, D. C. 2009. Replicability is not Reproducibility: Nor is it
-Good Science.
+Good Science. Proceedings of the Evaluation Methods for Machine 
+Learning Workshop 26th ICML, Montreal, Quebec, Canada. 
+http://www.csi.uottawa.ca/∼cdrummon/pubs/ICMLws09.pdf.
 
 Ellison, A. M. 2010. Repeatability and transparency in ecological
 research. Ecology 91:2536–2539.
@@ -494,7 +496,7 @@ Molloy, J. C. 2011. The Open Knowledge Foundation: Open Data Means
 Better Science. PLoS Biol 9:e1001195.
 
 Mosley, M., M. H. Brackett, S. Earley, and D. Henderson. 2009. DAMA
-guide to the data management body of knowledge.
+guide to the data management body of knowledge. Technics Publications.
 
 National Science Foundation. 2007. NSF and the Birth of the Internet.
 http://www.nsf.gov/news/special\_reports/nsf-net/.
